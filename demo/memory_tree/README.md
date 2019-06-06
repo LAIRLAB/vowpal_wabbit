@@ -12,7 +12,7 @@ contains 1 training example per class, and 2-shot version which contains 2 train
 
 The datasets for multilabel classification used are RCV1-2K, AmazonCat-13K, and Wiki10-31K from the XML [repository](http://manikvarma.org/downloads/XC/XMLRepository.html).
 
-We refer users to the [manuscript](https://arxiv.org/pdf/1807.06473.pdf) for detailed datastrutures and algorithms in CMT
+We refer users to our ICML 2019 [paper](https://arxiv.org/pdf/1807.06473.pdf) for detailed datastrutures and algorithms in CMT
 
 ## Dependency:
 python 3
